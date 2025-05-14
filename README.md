@@ -17,34 +17,45 @@ This HR dashboard provides a comprehensive overview of employee demographics, co
    
    *Sales Representative – 18
    
+   
 2.🚻 What is the gender breakdown of the staff?
+
 The pie chart visualizes gender diversity:
 
   *Female: 88 (54.66%)
 
   *Male: 73 (45.34%)
+  
 
 3.🎂 What is the age spread of the staff?
+
 Histograms by gender show age distribution:
 
   *Most employees are aged 25–35 years.
 
   *There is a youthful employee base across both genders.
+  
+  
 4.💰 Which job pays more on average?
+
   *The "Salary vs. Qualification" scatter plot suggests:
 
    *Higher-paying roles are typically in Product Management and Research.
 
    *Staff with Master's Degrees tend to earn more.
+   
 
 5.🏆 Who are the top earners in each job category?
+
   *While not directly labeled, the scatter plot shows:
   
   *Top earners can be identified by the highest salary points per job cluster.
 
   *A tooltip in Power BI could give exact names or values if needed.
   
+  
 6.📌 Quick Stats (Left Panel Overview)
+
 👥 Head Count: 161 employees
 
 💵 Average Salary: $54.2K
@@ -60,13 +71,13 @@ Histograms by gender show age distribution:
 
 🔍Insights Summary:
 
-Strong gender diversity, with over half the workforce being female.
+*Strong gender diversity, with over half the workforce being female.
 
-The workforce is largely young and qualified, indicating good potential for growth and development.
+*The workforce is largely young and qualified, indicating good potential for growth and development.
 
-Salaries are higher for those in research and management, especially with advanced degrees.
+*Salaries are higher for those in research and management, especially with advanced degrees.
 
-Hiring trends are positive, pointing to consistent organizational growth.
+*Hiring trends are positive, pointing to consistent organizational growth.
 
 
 
